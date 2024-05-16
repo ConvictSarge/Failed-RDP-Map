@@ -31,9 +31,8 @@ Live screenshot of the attacks from The Netherlands. NOTE: The error is a flag f
 <br/>
 <br/> 
 After approximately 24 hours.<br/>
-<img src="https://imgur.com/bP3auO3.png" height="80%" width="80%" alt="24 Hours in/>
-
- <br/>
+<img src="https://imgur.com/bP3auO3.png" height="80%" width="80%" alt="24 Hours in"/>
+<br/>
 <br/>
 It seems someone in "Washington, Virgina" started to show some interest.
 <img src="https://imgur.com/GU0SAjx.png" height="80%" width="80%" alt="Washington, VA"/>
